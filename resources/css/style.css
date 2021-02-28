@@ -1,0 +1,40 @@
+/* body  */
+body {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	background-color: #000000;
+	color: white;
+}
+
+.container {
+	text-align: center;
+}
+
+a {
+	color: aquamarine;
+	font-size: 16px;
+}
+
+h2 {
+	font-weight: 300;
+	font-size: 42px;
+}
+
+p {
+	font-size: 21px;
+	color: gray;
+}
+/* header */
+header h1 {
+	font-weight: normal;
+	font-size: 50px;
+}
+
+/* hero-box */
+#hero-box div {
+	margin-top: 27px;
+}
+
+/* footer */
+footer {
+	text-align: right;
+}
